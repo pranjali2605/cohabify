@@ -1,2 +1,2 @@
-# cohabitify
-CoHabitify – Smart Habit + Roommate Management website
+# cohabify
+CoHabify – Smart Habit + Roommate Management website
